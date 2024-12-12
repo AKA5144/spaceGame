@@ -1,0 +1,12 @@
+﻿  Vaisseau.cpp
+C:\Users\ar405\OneDrive\Bureau\space\CodeVide\DemoSFML\Vaisseau.cpp(58,12): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\ar405\OneDrive\Bureau\space\CodeVide\DemoSFML\Vaisseau.cpp(59,34): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  DemoSFML.vcxproj -> C:\Users\ar405\OneDrive\Bureau\space\CodeVide\x64\Debug\DemoSFML.exe
